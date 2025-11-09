@@ -27,13 +27,15 @@ Python bilmeyen kullanıcılar bile `.exe` sürümünü indirip direkt çalışt
 ---
 
 ## 📂 Proje Yapısı
+```
 ModernNotlar/
 ├── dist/
-│ └── NotDefteri_v1.0.exe
+│   └── NotDefteri_v1.0.exe
 ├── NotDefteri_v1.0.py
 ├── notepad.ico
 ├── README.md
 └── LICENSE
+```
 
 ---
 
